@@ -9,7 +9,7 @@ When the engine is finally done and in beta, I'll send out some downloadable/LUA
 
 If you want the latest ideas for the engine, check this document: https://docs.google.com/document/d/13aQgEpvUhht4RBoQSPCdkNBqkokTPNTaEfTiecFeuZc/edit?usp=sharing
 
-I'm currently accepting any commitions through this form here, if you want to apply to work on the engine: no link yet lol
+I'm currently accepting any commitions through this form here, if you want to apply to work on the engine: https://forms.gle/85eJKBjFruTwPEsE7
 
 <h2>Current Jobs Available/Taken:</h2>
 
