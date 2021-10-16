@@ -1,4 +1,4 @@
-# GMDBEngine
+# GMDB Engine
 ![GMDB Engine Logo](engine_art/real.png)
 
 GMDB Engine: The Fullest Rewrite of Friday Night Funkin' in funkin history
