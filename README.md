@@ -28,3 +28,6 @@ Playtester(s): Open
 <h2>aight</h2>
 
 That's all for now, see ya when the engine is complete (which is probably never)
+
+<crap you found me>
+<you won... NOTHING! Now get out!>
