@@ -11,6 +11,8 @@ If you want the latest ideas for the engine, check this document: https://docs.g
 
 I'm currently accepting any commitions through this form here, if you want to apply to work on the engine: https://forms.gle/85eJKBjFruTwPEsE7
 
+To see some Draft Art pieces, check the [engine_art](engine_art/) repository folder.
+
 <h2>Current Jobs Available/Taken:</h2>
 
 Programmer: Open
